@@ -1,0 +1,7 @@
+{
+  "name": "zipdap1",
+  "dependencies": {
+    "bootstrap-sass": "3.3.5",
+    "angular": "~1.4.4"
+  }
+}
